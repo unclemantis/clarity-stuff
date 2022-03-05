@@ -9,7 +9,7 @@ variableName
 
 tokenName
 
-mapName
+map-name
 
 assetName
 
